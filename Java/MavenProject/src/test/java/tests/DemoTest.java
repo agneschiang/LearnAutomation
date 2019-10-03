@@ -19,7 +19,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import PageObject.PageMethod;
 
 
-
 public class DemoTest {
 	
 	public String baseUrl = "http://automationpractice.com";
@@ -37,14 +36,13 @@ public class DemoTest {
         driver.get(baseUrl);
         driver.manage().window().maximize();
         
+        //Create PageObject for home Page 
         PageMethod _homePage = new PageMethod(driver);
         _homePage.ClickLogin();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         assertEquals( _homePage.SignedIn(), LinkedText );
-       
-        
+  
     }
-		
 	
     @After
     public void tearDown() {
