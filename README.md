@@ -6,5 +6,5 @@ C# Folder
 
 Java Folder
 - Maven Project 
-  With seleniumtraining example
+  With seleniumtraining example --> Focus on end-to-end testing 
 
