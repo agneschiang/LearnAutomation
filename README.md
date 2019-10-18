@@ -6,5 +6,7 @@ C# Folder
 
 Java Folder
 - Maven Project 
-  With seleniumtraining example --> Focus on end-to-end testing 
+  With selenium training example --> Focus on end-to-end testing 
+  With example on how to read a csv file --> /Helpers/ReadExcel
+  With example on how to do a API call  --> /Helpers/APICall
 
