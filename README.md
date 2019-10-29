@@ -12,3 +12,5 @@ Java Folder
   - With example on how to do a API call  --> /Helpers/APICall
   - Convert csv to json object --> /Helpers/csvtoJson
 
+JavaScript Folder
+- TestCafe --> End to end testing 
