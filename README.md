@@ -16,4 +16,4 @@ JavaScript Folder
 - TestCafe --> End to end testing 
 
 Zap Proxy
- - Use it to twitting the data in any environment by changing the api response body when it got called
+ - Use it to twitting the data in any environment by changing the api response body when it got called (example: https://github.com/zaproxy/community-scripts/tree/master/proxy)
